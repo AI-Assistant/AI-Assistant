@@ -3,7 +3,7 @@
 <img align="right" src="https://media4.giphy.com/media/g79am6uuZJKSc/giphy.gif?cid=ecf05e472yk1dsvvxrgwvo3j1wjf7ja25i2ketbb6v6c852p&rid=giphy.gif&ct=g" width="260px">
 
 - :man: I’m Kander - studying Education
-- 👀 I’m interested in optimizing digital learning.
+- 👀 I’m interested in optimizing digital learning
 - 🌱 I’m currently learning C#, ASP.NET MVC
 - 💞️ I’m looking to collaborate on ... open minded - feel free to come up with an idea :)
 - 📫 How to reach me: Email: kander.akinci@gso.schule.koeln
