@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning C#, ASP.NET MVC
 - 💞️ I’m looking to collaborate on ... open minded - feel free to come up with an idea :)
 - 📫 How to reach me: Email: kander.akinci@gso.schule.koeln
-- ⚡ My motto: Dont panic
+- ⚡ My motto: Don't panic
 
 
 **languages and tools:**  
